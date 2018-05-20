@@ -1,3 +1,4 @@
 First pull
 The second commit (editing via edit button in GIT)
 The third commit
+New commit
